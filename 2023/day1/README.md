@@ -39,7 +39,7 @@ treb7uchet
 문제의 입력이 문자열로 주어진다.  
 이번에는 영어로 표현한 숫자들도 숫자로 취급한다.
 ```
-twoinline --> 22
+two1nine --> 29
 eighttwothree --> 83
 abcone2threexyz --> 13
 xtwone3four --> 24
