@@ -1,7 +1,7 @@
-## DAY 1
+## DAY {}
 
-- [문제](https://adventofcode.com/2023/day/{})
-- [문제의 입력](https://adventofcode.com/2023/day/{}/input)
+- [문제](https://adventofcode.com/{}/day/{})
+- [문제의 입력](https://adventofcode.com/{}/day/{}/input)
 
 ### Part 1
 
