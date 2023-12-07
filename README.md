@@ -10,3 +10,4 @@ https://adventofcode.com/
 
 - [day 1](/2023/day1/README.md)
 - [day 2](/2023/day2/README.md)
+- [day 3](/2023/day3/README.md)
